@@ -1,0 +1,15 @@
+1. Write a NumPy program to compute the multiplication of two given matrixes. 
+2. Write a NumPy program to compute the outer product of two given vectors. 
+3. Write a NumPy program to compute the cross product of two given vectors. 
+4. Write a NumPy program to compute the determinant of a given square array. 
+5. Write a NumPy program to evaluate Einstein's summation convention of two given multidimensional arrays. 
+6. Write a NumPy program to compute the inner product of vectors for 1-D arrays (without complex conjugation) and in higher dimension.
+7. Write a NumPy program to compute the eigenvalues and right eigenvectors of a given square array. 
+8. Write a NumPy program to compute the Kronecker product of two given mulitdimension arrays. 
+9. Write a NumPy program to compute the condition number of a given matrix. 
+10. Write a NumPy program to find a matrix or vector norm. 
+11. Write a NumPy program to compute the determinant of an array. 
+12. Write a NumPy program to compute the inverse of a given matrix. 
+13. Write a NumPy program to calculate the QR decomposition of a given matrix.
+14. Write a NumPy program to compute the condition number of a given matrix. 
+15. Write a NumPy program to compute the sum of the diagonal element of a given array. 
